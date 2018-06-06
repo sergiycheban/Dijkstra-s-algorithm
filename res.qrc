@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>resources/close.svg</file>
+        <file>resources/danger.svg</file>
+        <file>resources/loupe.svg</file>
+        <file>resources/molecule.svg</file>
+        <file>resources/open-hand.svg</file>
+        <file>resources/question.svg</file>
+        <file>resources/stars.svg</file>
+    </qresource>
+</RCC>
